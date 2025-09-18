@@ -42,13 +42,15 @@ This project provides end-to-end sales analytics and predictive modeling for bus
 ### Key Visualizations
 
 #### 1. Sales Trends Over Time
-![Sales Trends]("F:\Sales.png")
+![Sales Trends]<img width="715" height="438" alt="Sales" src="https://github.com/user-attachments/assets/e895fc53-3850-49f7-924e-812ab73d3096" />
+
 - Year-over-year comparison (2003-2005)
 - Monthly breakdowns with seasonal patterns
 - YTD vs. Total Sales analysis
 
 #### 2. Top Performing Products
-![Top Products]("F:\Top_products.png")
+![Top Products]<img width="1122" height="430" alt="Top_products" src="https://github.com/user-attachments/assets/74faaaa5-7e1c-4785-a83f-fcfdc337b217" />
+
 **Leading Products by Revenue:**
 - 1992 Ferrari 360 Spider (Red) - $0.3M
 - 2001 Ferrari Enzo - $0.25M
@@ -56,19 +58,22 @@ This project provides end-to-end sales analytics and predictive modeling for bus
 - 2003 Harley-Davidson Eagle Drag Bike - $0.2M
 
 #### 3. Profit Analysis by Product Line
-![Profit by Product Line]("F:\Profit.png")
+![Profit by Product Line]<img width="1077" height="412" alt="Profit" src="https://github.com/user-attachments/assets/fb5efddc-f0a9-489a-bcb2-f6ea73d61806" />
+
 - **Classic Cars**: Highest profit contributor (~$4M)
 - **Vintage Cars**: Second largest segment (~$2M)
 - **Motorcycles**: Significant revenue stream (~$1M)
 
 #### 4. Geographic Sales Distribution
-![Regional Map]("F:\Graph.png")
+![Regional Map]("F:\Graph.png")<img width="1064" height="355" alt="Graph" src="https://github.com/user-attachments/assets/2f50a5b7-3614-4261-a397-8a0d9389dde3" />
+
 - Global sales mapping with regional performance
 - Market penetration analysis
 - Geographic opportunity identification
 
 #### 5. Order Trends Analysis
-![Order Trends]("F:\Orders.png")
+![Order Trends]("F:\Orders.png")<img width="650" height="375" alt="Orders" src="https://github.com/user-attachments/assets/66f4c471-72c3-4e11-9350-917b0725a73f" />
+
 - **2003**: 111 orders
 - **2004**: 64 orders
 - **2005**: 151 orders (40% growth)
