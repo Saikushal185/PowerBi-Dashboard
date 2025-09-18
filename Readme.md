@@ -120,28 +120,6 @@ XGBRegressor(
 pip install pandas scikit-learn xgboost
 ```
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/sales-analytics-dashboard
-   cd sales-analytics-dashboard
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare data**
-   - Place CSV files in the `data/` directory
-   - Ensure all required data files are present
-
-4. **Run the prediction model**
-   ```bash
-   python script.py
-   ```
-
 ### Power BI Dashboard Setup
 
 1. Open Power BI Desktop
