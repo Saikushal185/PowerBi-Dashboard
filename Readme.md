@@ -2,7 +2,9 @@
 
 A comprehensive business intelligence solution combining interactive Power BI dashboards with machine learning-powered revenue prediction capabilities.
 
-![Power BI Dashboard]("F:\DashBoard.png")
+![Power BI Dashboard]<img width="1073" height="643" alt="DashBoard" src="https://github.com/user-attachments/assets/48f0620d-9b03-4409-a5cb-36e4a6fc2063" />
+
+
 
 ## 📊 Project Overview
 
